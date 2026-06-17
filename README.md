@@ -1,2 +1,2 @@
 # Demo_repo
-Checking the understanding
+Checking the understanding.
